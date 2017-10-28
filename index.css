@@ -1,0 +1,19 @@
+.main {
+	background-color: white;
+	width: 50%;
+	height:100%;
+	position: absolute;
+	margin: 0% 25%;
+}
+
+html {
+	background-color: #145859;
+}
+
+.title {
+	padding: 15px;
+}
+
+li {
+	list-style-type: none;
+}
